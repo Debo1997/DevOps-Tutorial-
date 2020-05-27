@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DEV" max_length="40" name="x_445983_devops_tu_dev" text_index="true" type="collection">
+        <element label="Number " max_length="40" name="number" type="float"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+    </element>
+</database>

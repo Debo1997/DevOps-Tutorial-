@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">83b3bf912f0d90107910dc1a2799b6fc</content>
+        <content_attrs/>
+        <content_component display_value="now-uxf-viewport">3f75ec64a40f9432c9168bbda7b997de</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 15:09:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4fb3bf912f0d90107910dc1a2799b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DevOps Tutorial" source="x_445983_devops_tu">49f99b5d2f8990107910dc1a2799b61c</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="DevOps Tutorial">49f99b5d2f8990107910dc1a2799b61c</sys_scope>
+        <sys_update_name>sys_aw_module_4fb3bf912f0d90107910dc1a2799b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 15:09:41</sys_updated_on>
+        <toolbar_button display_value="Home Button">c7b3bf912f0d90107910dc1a2799b6f0</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="DevOps Tutorial">2eb3ff512f0d90107910dc1a2799b6bd</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=4fb3bf912f0d90107910dc1a2799b6ef"/>
+</record_update>

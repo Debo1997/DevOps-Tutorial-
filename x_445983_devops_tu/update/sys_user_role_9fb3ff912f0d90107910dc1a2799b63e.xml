@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>devops_tutorial</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-27 15:09:43</sys_created_on>
+        <sys_id>9fb3ff912f0d90107910dc1a2799b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>devops_tutorial</sys_name>
+        <sys_package display_value="DevOps Tutorial" source="x_445983_devops_tu">49f99b5d2f8990107910dc1a2799b61c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps Tutorial">49f99b5d2f8990107910dc1a2799b61c</sys_scope>
+        <sys_update_name>sys_user_role_9fb3ff912f0d90107910dc1a2799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 15:09:43</sys_updated_on>
+    </sys_user_role>
+</record_update>
